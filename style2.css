@@ -1,0 +1,39 @@
+#one{
+    background-color: bisque;
+    border-style:  groove ;
+    border-color: cyan;
+    margin: 50px;
+    
+}
+#one1{
+    background-color: bisque;
+    border-style: dashed dotted ridge groove 100px skyblue ;
+    border-color: aqua;
+    font-size: 50px;
+    margin: 50px;
+    opacity: 0.8;
+
+}
+#two{
+    background: cyan;
+    border: 19px;
+    border-style:  groove  ;
+    border-color: aqua;
+    margin: 50px;
+
+  
+}
+#one2 {
+    background-color: pink;
+    font-size: 50px;
+    margin: 50px;
+    border-style: groove;
+    border-color: cyan;
+    position: relative;
+    
+}
+
+.first{
+    background-color: whitesmoke;
+   
+}    
